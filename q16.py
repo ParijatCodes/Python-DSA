@@ -1,0 +1,18 @@
+#take input and print only once
+s= set()
+n= input("Enter Number: ")
+s.add(int(n))
+n= input("Enter Number: ")
+s.add(int(n))
+n= input("Enter Number: ")
+s.add(int(n))
+n= input("Enter Number: ")
+s.add(int(n))
+n= input("Enter Number: ")
+s.add(int(n))
+n= input("Enter Number: ")
+s.add(int(n))
+n= input("Enter Number: ")
+s.add(int(n))
+
+print(s)
