@@ -1,0 +1,1 @@
+print(rem(l, "an"))
